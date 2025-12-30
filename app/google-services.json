@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "236101536453",
+    "project_id": "mobiscan-23124",
+    "storage_bucket": "mobiscan-23124.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236101536453:android:f9d6c53554c96ffca97eac",
+        "android_client_info": {
+          "package_name": "com.example.mobiscan_demo2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtqdbG8FqJLm_lMU6iI3bTtRGyk0QRp9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
